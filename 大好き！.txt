@@ -1,3 +1,5 @@
 ﻿(*^_^*)
 
 コミットテスト EGit　https 
+
+コミットテスト Git Shell ssh
